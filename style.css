@@ -1,3 +1,32 @@
 .s1 {
-  background-image: ;
+  background-image: url("img/slide1/shadow.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.s2 {
+  background-image: url("img/slide2/degrader1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.s3 {
+  background-image: url("img/slide3/degrader5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.s4 {
+  background-image: url("img/slide4/degrader3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.s5 {
+  background-image: url("img/slide5/degrader6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.s6 {
 }
